@@ -1,5 +1,7 @@
 # Bitcoin and Gold Price Prediction and Portfolio Maximization
 
+**This README file aims to give you a brief about what this project is about, for more details you can refer to the presentation slides "Trio.pptx"**
+
 This project explores the prediction of Bitcoin and Gold prices using ARIMA and LSTM models and develops tailored trading strategies to maximize portfolio profits. The study covers data preprocessing, price prediction modeling, and trading strategy implementation using benchmark and reinforcement learning methods.
 
 ## Authors
