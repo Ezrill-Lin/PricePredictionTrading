@@ -52,7 +52,7 @@ The aim of this project is to:
 - **Approach:**
   - Utilized a neural network to approximate Q-values and train trading policies based on the Bellman equation.
 - **Performance:**
-  - For Bitcoin: RL achieved ~1-2% profitability, outperforming benchmark strategies.
+  - For Bitcoin: RL achieved 2% profitability, 17% higher than benchmark strategies.
   - For Gold: RL underperformed due to market stability favoring simpler strategies.
 
 #### Benchmark Strategies
