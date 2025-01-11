@@ -2,12 +2,12 @@
 
 **This README file aims to give you a brief about what this project is about, for more details you can refer to the presentation slides "Trio_30.pptx"**
 
-This project explores the prediction of Bitcoin and Gold prices using ARIMA and LSTM models and develops tailored trading strategies to maximize portfolio profits. The study covers data preprocessing, price prediction modeling, and trading strategy implementation using benchmark and reinforcement learning methods.
+This project explores the prediction of Bitcoin and Gold prices using ARIMA and LSTM models and develops tailored trading strategies by leveraging Reinforcement Learning techniques to maximize portfolio profits. The study covers data preprocessing, price prediction modeling, and trading strategy implementation using benchmark and reinforcement learning methods.
 
 ## Authors
-- Lexuan Zhu
-- Qiancheng Ma
-- Xinran Lin
+- Lexuan Zhu - Trained ARIMA model for prediction of both bitcoin and gold price.
+- Qiancheng Ma - Trained LSTM model for prediction of both bitcoin and gold price.
+- Xinran Lin - Trained RL model for autonomous trading and compare it to benchmark trading strategies.
 
 ---
 
