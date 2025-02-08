@@ -35,7 +35,7 @@ The aim of this project is to:
 #### ARIMA (AutoRegressive Integrated Moving Average)
 - **Key Steps:**
   - Explored the stationarity and seasonality of data.
-  - Selected ARIMA models based on lowest AIC values.
+  - Selected ARIMA models' parameters based on stationarity pattern and ACF and PACF plots.
   - Updated models iteratively with observed prices.
 - **Results:**
   - ARIMA(2,1,2) for Gold, ARIMA(1,1,1) for Bitcoin showed good performance.
